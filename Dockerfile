@@ -1,3 +1,2 @@
-FROM node:14-alpine
+FROM docker/getting-started:latest
 
-RUN apk add -U subversion
